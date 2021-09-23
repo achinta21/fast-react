@@ -1,0 +1,27 @@
+.header{
+    margin-top: 20px;
+}
+.logo{
+    margin-left: 40%;
+    height: 70px;
+    margin-bottom: 15px;
+}
+.header nav{
+    background-color: black;
+    padding: 20px;
+}
+.header nav a{
+   margin-right:30px;
+   text-decoration: none;
+   color: white;
+   font-size: 20px;
+   margin-left: 20px;
+}
+.header nav a:hover{
+ background-color: lightgrey;
+}
+#input{
+    width: 550px;
+    padding: 10px;
+    border-radius: 10px;
+}

@@ -1,0 +1,26 @@
+.prodects{
+    display: flex;
+    margin-left: 80px;
+    border-right: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+    background-color: rgba(154, 198, 211, 0.349);
+    padding: 10px;
+}
+.prodect-logo{
+    margin-right: 10px;
+   
+}
+#bule{
+    color: blue;
+    font-weight: 400;
+}
+.btn{
+    background-color:#c77955;
+    padding: 5px;
+    width: 150px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(94, 91, 91);
+    cursor: pointer;
+    color: white;
+}
