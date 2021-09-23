@@ -9,8 +9,8 @@ const Cart = (props) => {
     return (
         <div className="cart-item">
             <h2>Order summary</h2>
-            <h4>count:{props.cart.length}</h4>
-            <h4>total:{total}</h4>
+            <h4>count: {props.cart.length}</h4>
+            <h4>total: {total}</h4>
             <button className="btn">buy now</button>
         </div>
     );
